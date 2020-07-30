@@ -1,0 +1,13 @@
+import model mssm
+
+define p = p b b~
+define j = j b b~
+
+define ewkinos = x1+ x1- n1 n2
+define stau = ta1- ta1+
+define colored = go dl dr ul ur sl sr cl cr b1 b2 t1 t2 dl~ dr~ ul~ ur~ sl~ sr~ cl~ cr~ b1~ b2~ t1~ t2~
+generate p p > ewkinos ewkinos j j / colored QCD=0 @1
+add process p p > stau stau j j / colored QCD=0 @2
+
+output VBF_EWKino_StauDominated_mN2-%MN2%_mStau-%MNLSP%_mN1-%MN1% -nojpeg
+
