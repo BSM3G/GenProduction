@@ -1,0 +1,6 @@
+import model ADM_UFO
+
+generate p p > n1 n1 j j QCD=0 @1
+
+output VBF_ADM_mN1-%MN1%_mLAMBDA-%MLAMBDA% -nojpeg
+
