@@ -1,0 +1,64 @@
+1       u u > n1 n1 u u,c c > n1 n1 c c
+mirror  none
+2       u u~ > n1 n1 u u~,c c~ > n1 n1 c c~
+mirror  u~ u > n1 n1 u u~,c~ c > n1 n1 c c~
+3       d d > n1 n1 d d,s s > n1 n1 s s
+mirror  none
+4       d d~ > n1 n1 d d~,s s~ > n1 n1 s s~
+mirror  d~ d > n1 n1 d d~,s~ s > n1 n1 s s~
+5       u~ u~ > n1 n1 u~ u~,c~ c~ > n1 n1 c~ c~
+mirror  none
+6       d~ d~ > n1 n1 d~ d~,s~ s~ > n1 n1 s~ s~
+mirror  none
+7       u d > n1 n1 u d,c s > n1 n1 c s
+mirror  d u > n1 n1 u d,s c > n1 n1 c s
+8       u u~ > n1 n1 d d~,c c~ > n1 n1 s s~
+mirror  u~ u > n1 n1 d d~,c~ c > n1 n1 s s~
+9       u d~ > n1 n1 u d~,c s~ > n1 n1 c s~
+mirror  d~ u > n1 n1 u d~,s~ c > n1 n1 c s~
+10      d u~ > n1 n1 d u~,s c~ > n1 n1 s c~
+mirror  u~ d > n1 n1 d u~,c~ s > n1 n1 s c~
+11      d d~ > n1 n1 u u~,s s~ > n1 n1 c c~
+mirror  d~ d > n1 n1 u u~,s~ s > n1 n1 c c~
+12      u~ d~ > n1 n1 u~ d~,c~ s~ > n1 n1 c~ s~
+mirror  d~ u~ > n1 n1 u~ d~,s~ c~ > n1 n1 c~ s~
+13      u c > n1 n1 u c
+mirror  c u > n1 n1 u c
+14      u s > n1 n1 u s,c d > n1 n1 c d
+mirror  s u > n1 n1 u s,d c > n1 n1 c d
+15      u u~ > n1 n1 c c~,c c~ > n1 n1 u u~
+mirror  u~ u > n1 n1 c c~,c~ c > n1 n1 u u~
+16      u u~ > n1 n1 s s~,c c~ > n1 n1 d d~
+mirror  u~ u > n1 n1 s s~,c~ c > n1 n1 d d~
+17      u c~ > n1 n1 u c~,c u~ > n1 n1 c u~
+mirror  c~ u > n1 n1 u c~,u~ c > n1 n1 c u~
+18      u s~ > n1 n1 u s~,c d~ > n1 n1 c d~
+mirror  s~ u > n1 n1 u s~,d~ c > n1 n1 c d~
+19      d s > n1 n1 d s
+mirror  s d > n1 n1 d s
+20      d c~ > n1 n1 d c~,s u~ > n1 n1 s u~
+mirror  c~ d > n1 n1 d c~,u~ s > n1 n1 s u~
+21      d d~ > n1 n1 c c~,s s~ > n1 n1 u u~
+mirror  d~ d > n1 n1 c c~,s~ s > n1 n1 u u~
+22      d d~ > n1 n1 s s~,s s~ > n1 n1 d d~
+mirror  d~ d > n1 n1 s s~,s~ s > n1 n1 d d~
+23      d s~ > n1 n1 d s~,s d~ > n1 n1 s d~
+mirror  s~ d > n1 n1 d s~,d~ s > n1 n1 s d~
+24      u~ c~ > n1 n1 u~ c~
+mirror  c~ u~ > n1 n1 u~ c~
+25      u~ s~ > n1 n1 u~ s~,c~ d~ > n1 n1 c~ d~
+mirror  s~ u~ > n1 n1 u~ s~,d~ c~ > n1 n1 c~ d~
+26      d~ s~ > n1 n1 d~ s~
+mirror  s~ d~ > n1 n1 d~ s~
+27      u s > n1 n1 c d,c d > n1 n1 u s
+mirror  s u > n1 n1 c d,d c > n1 n1 u s
+28      u c~ > n1 n1 d s~,c u~ > n1 n1 s d~
+mirror  c~ u > n1 n1 d s~,u~ c > n1 n1 s d~
+29      u d~ > n1 n1 c s~,c s~ > n1 n1 u d~
+mirror  d~ u > n1 n1 c s~,s~ c > n1 n1 u d~
+30      d u~ > n1 n1 s c~,s c~ > n1 n1 d u~
+mirror  u~ d > n1 n1 s c~,c~ s > n1 n1 d u~
+31      d s~ > n1 n1 u c~,s d~ > n1 n1 c u~
+mirror  s~ d > n1 n1 u c~,d~ s > n1 n1 c u~
+32      u~ s~ > n1 n1 c~ d~,c~ d~ > n1 n1 u~ s~
+mirror  s~ u~ > n1 n1 c~ d~,d~ c~ > n1 n1 u~ s~

@@ -1,0 +1,44 @@
+1       u d > n2 x1- u u,c s > n2 x1- c c
+mirror  d u > n2 x1- u u,s c > n2 x1- c c
+2       u u~ > n2 x1- u d~,c c~ > n2 x1- c s~
+mirror  u~ u > n2 x1- u d~,c~ c > n2 x1- c s~
+3       d d > n2 x1- u d,s s > n2 x1- c s
+mirror  none
+4       d u~ > n2 x1- u u~,s c~ > n2 x1- c c~
+mirror  u~ d > n2 x1- u u~,c~ s > n2 x1- c c~
+5       d u~ > n2 x1- d d~,s c~ > n2 x1- s s~
+mirror  u~ d > n2 x1- d d~,c~ s > n2 x1- s s~
+6       d d~ > n2 x1- u d~,s s~ > n2 x1- c s~
+mirror  d~ d > n2 x1- u d~,s~ s > n2 x1- c s~
+7       u~ u~ > n2 x1- u~ d~,c~ c~ > n2 x1- c~ s~
+mirror  none
+8       u~ d~ > n2 x1- d~ d~,c~ s~ > n2 x1- s~ s~
+mirror  d~ u~ > n2 x1- d~ d~,s~ c~ > n2 x1- s~ s~
+9       u s > n2 x1- u c,c d > n2 x1- c u
+mirror  s u > n2 x1- u c,d c > n2 x1- c u
+10      u u~ > n2 x1- c s~,c c~ > n2 x1- u d~
+mirror  u~ u > n2 x1- c s~,c~ c > n2 x1- u d~
+11      u c~ > n2 x1- u s~,c u~ > n2 x1- c d~
+mirror  c~ u > n2 x1- u s~,u~ c > n2 x1- c d~
+12      d s > n2 x1- u s
+mirror  s d > n2 x1- u s
+13      d s > n2 x1- c d
+mirror  s d > n2 x1- c d
+14      d u~ > n2 x1- c c~,s c~ > n2 x1- u u~
+mirror  u~ d > n2 x1- c c~,c~ s > n2 x1- u u~
+15      d u~ > n2 x1- s s~,s c~ > n2 x1- d d~
+mirror  u~ d > n2 x1- s s~,c~ s > n2 x1- d d~
+16      d c~ > n2 x1- u c~,s u~ > n2 x1- c u~
+mirror  c~ d > n2 x1- u c~,u~ s > n2 x1- c u~
+17      d c~ > n2 x1- d s~,s u~ > n2 x1- s d~
+mirror  c~ d > n2 x1- d s~,u~ s > n2 x1- s d~
+18      d d~ > n2 x1- c s~,s s~ > n2 x1- u d~
+mirror  d~ d > n2 x1- c s~,s~ s > n2 x1- u d~
+19      d s~ > n2 x1- u s~,s d~ > n2 x1- c d~
+mirror  s~ d > n2 x1- u s~,d~ s > n2 x1- c d~
+20      u~ c~ > n2 x1- u~ s~
+mirror  c~ u~ > n2 x1- u~ s~
+21      u~ c~ > n2 x1- c~ d~
+mirror  c~ u~ > n2 x1- c~ d~
+22      u~ s~ > n2 x1- d~ s~,c~ d~ > n2 x1- s~ d~
+mirror  s~ u~ > n2 x1- d~ s~,d~ c~ > n2 x1- s~ d~
