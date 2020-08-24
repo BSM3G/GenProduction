@@ -1,8 +1,0 @@
-P1_qq_x1px1mqq
-P1_qq_n1n1qq
-P1_qq_n1n2qq
-P1_qq_n2n2qq
-P1_qq_x1pn1qq
-P1_qq_x1pn2qq
-P1_qq_n1x1mqq
-P1_qq_n2x1mqq
